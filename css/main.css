@@ -30,6 +30,7 @@ h1 {
     color: #e6c200;
 }
 p {
+    font-family:'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
     font-size: 1em;
     line-height: 1em;
     color: #333;
